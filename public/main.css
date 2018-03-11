@@ -1,0 +1,17 @@
+body{
+	margin:0px;
+	height:100%;
+}
+
+.flexbox{
+	text-align:center;
+	align-items: center;
+}
+
+.margn{
+}
+
+.footer{
+	position:fixed;
+	bottom:0px;
+}
